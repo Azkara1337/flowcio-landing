@@ -1,0 +1,955 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <section id="1:1246" name="Page principal " x="-760.5" y="188.5" width="2120" height="11957.919921875">
+    <frame id="1:17" name="1920w light" x="100" y="100" width="1920" height="11757.919921875">
+      <frame id="1:21" name="Main" x="0" y="0" width="1920" height="10891.419921875">
+        <frame id="1:22" name="Section" x="20" y="20" width="1880" height="1100">
+          <frame id="1:26" name="Container" x="0" y="0" width="1880" height="1100">
+            <frame id="1:27" name="Container" x="0" y="0" width="1880" height="1100">
+              <rounded-rectangle id="1:28" name="Gradient" x="0" y="0" width="1880" height="1100" />
+              <rounded-rectangle id="1:32" name="Gradient" x="0" y="0" width="1880" height="1100" />
+              <frame id="1:35" name="Container" x="0" y="0" width="1880" height="1100">
+                <frame id="1:37" name="Paper texture" x="0" y="0" width="1880" height="1100" />
+              </frame>
+            </frame>
+            <frame id="1:38" name="Overlay+Shadow" x="0" y="0" width="1880" height="1100" />
+          </frame>
+          <frame id="1:39" name="Container" x="0" y="500" width="1880" height="600">
+            <frame id="1:40" name="SVG" x="210.11000061035156" y="51" width="1441" height="269">
+              <vector id="1:41" name="Vector" x="1.1979998350143433" y="0.5000000596046448" width="1440.02197265625" height="269.99700927734375" />
+            </frame>
+          </frame>
+          <frame id="1:46" name="Container" x="0" y="500" width="1880" height="600">
+            <frame id="1:47" name="Container" x="2.25" y="44.16999816894531" width="1222.735720259313" height="922.3308537492157">
+              <frame id="1:48" name="Mask Group" x="0" y="0" width="1222.734369133409" height="922.3337604190419">
+                <frame id="1:49" name="Mask" x="0" y="0" width="1222.734369133409" height="922.3337604190419">
+                  <frame id="1:50" name="image" x="0" y="0" width="1021.2871679687933" height="886.8100368311489">
+                    <vector id="1:51" name="Vector" x="0" y="0.2853604555130005" width="1021.0800174596661" height="885.6352279784651" />
+                  </frame>
+                </frame>
+                <frame id="1:55" name="Background" x="0" y="0" width="1222.734369133409" height="922.3337604190419" />
+              </frame>
+            </frame>
+            <frame id="1:58" name="Container" x="215.3300018310547" y="167.32000732421875" width="874.4256870682184" height="797.3510891478818">
+              <frame id="1:59" name="Mask Group" x="0" y="0" width="874.4212251284025" height="797.3577189101725">
+                <frame id="1:60" name="Mask" x="0" y="0" width="874.4212251284025" height="797.3577189101725">
+                  <frame id="1:61" name="image" x="0" y="0" width="820.1086047186709" height="594.6367864049571">
+                    <vector id="1:62" name="Vector" x="0.3308287560939789" y="0.749593198299408" width="819.0201605545426" height="593.5337115520579" />
+                  </frame>
+                </frame>
+                <frame id="1:63" name="Container" x="0" y="0" width="874.4212251284025" height="797.3577189101725">
+                  <frame id="1:64" name="Background" x="0" y="0" width="874.4257460236549" height="797.3511049449444" />
+                  <frame id="1:67" name="paper-texture.a0b2b1ca.webp" x="0" y="0" width="874.4257460236549" height="797.3511049449444" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:68" name="Container" x="1250" y="420" width="405" height="202.5">
+              <frame id="1:69" name="Mask Group" x="0" y="0" width="405" height="202.5">
+                <frame id="1:70" name="Mask" x="0" y="0" width="405" height="202.5">
+                  <frame id="1:71" name="image" x="0" y="0" width="371.15753173828125" height="202.5">
+                    <vector id="1:72" name="Vector" x="0" y="-0.0005884982529096305" width="370.7691650390625" height="202.18824768066406" />
+                    <vector id="1:73" name="Vector" x="0" y="-0.0005884982529096305" width="370.7691650390625" height="202.18824768066406" />
+                  </frame>
+                </frame>
+                <frame id="1:75" name="Background" x="0" y="0" width="405" height="202.5" />
+                <frame id="1:77" name="paper-black.dba476c7.png" x="-40.5" y="79.75" width="486" height="243" />
+              </frame>
+            </frame>
+            <frame id="1:78" name="Container" x="1126.4100341796875" y="-70.72000122070312" width="932.1474264975895" height="938.1141117336156">
+              <frame id="1:79" name="Container" x="0" y="0" width="932.1412641745719" height="938.1085035362994">
+                <frame id="1:80" name="Mask Group" x="0" y="0" width="932.1412641745719" height="938.1085035362994">
+                  <frame id="1:81" name="Mask" x="0" y="0" width="932.1412641745719" height="938.1085035362994">
+                    <frame id="1:82" name="image" x="0" y="0" width="932.1355353942217" height="938.1060910827036">
+                      <vector id="1:83" name="Vector" x="55.20338821411133" y="35.099693298339844" width="788.524480478176" height="801.3022009506894" />
+                      <frame id="1:87" name="Mask group" x="55.47175216674805" y="35.10630416870117" width="740.1637962636969" height="768.9926594663175">
+                        <frame id="1:85" name="Group" x="55.47175216674805" y="35.10630416870117" width="740.1637962636969" height="768.9926594663175">
+                          <vector id="1:86" name="Vector" x="55.47175216674805" y="35.10630416870117" width="740.1637962636969" height="768.9926594663175" />
+                        </frame>
+                        <vector id="1:84" name="Vector" x="55.47175216674805" y="35.10630416870117" width="740.1637962636969" height="768.9926594663175" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="1:89" name="Background" x="0" y="0" width="932.1412641745719" height="938.1085035362994" />
+                </frame>
+                <frame id="1:90" name="Mask Group" x="89.63500213623047" y="60.090484619140625" width="783.0036140230623" height="788.0162597679373">
+                  <frame id="1:91" name="Mask" x="0" y="0" width="783.0036140230623" height="788.0162597679373">
+                    <frame id="1:92" name="image" x="0" y="0" width="763.9674746334977" height="775.1763419278959">
+                      <vector id="1:93" name="Vector" x="0.7475823760032654" y="0.7608761191368103" width="762.1303257666341" height="773.0950695628871" />
+                    </frame>
+                  </frame>
+                  <frame id="1:95" name="Container" x="0" y="0" width="783.0036140230623" height="788.0162597679373">
+                    <frame id="1:96" name="Background" x="0" y="0" width="783.0044227192129" height="788.0169262118852" />
+                    <frame id="1:99" name="paper-texture.a0b2b1ca.webp" x="0" y="0" width="783.0044227192129" height="788.0169262118852" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:100" name="Container" x="1936.9300537109375" y="791.4199829101562" width="953.8669855333865" height="653.4941956400871">
+              <frame id="1:101" name="Mask Group" x="0" y="0" width="953.8677841220156" height="653.4949399078268">
+                <frame id="1:102" name="Mask" x="0" y="0" width="953.8677841220156" height="653.4949399078268">
+                  <frame id="1:103" name="image" x="0" y="0" width="953.4071215372751" height="649.1188819377567">
+                    <vector id="1:104" name="Vector" x="0.47040435671806335" y="0.9511652588844299" width="952.5883735124658" height="647.3209455610563" />
+                  </frame>
+                </frame>
+                <frame id="1:105" name="Background" x="0" y="0" width="953.8677841220156" height="653.4949399078268" />
+                <frame id="1:106" name="paper-notebook.9ae2b49a.webp" x="0" y="0" width="953.8677841220156" height="653.4949399078268" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:107" name="hero-screenshot-desktop-full.4be7130c.png" x="418" y="775.4500122070312" width="1044" height="424.54998779296875" />
+          <text id="1:108" name="Heading 1 → Votre espace pour les
+notes, les tâches et les
+grandes idées" x="619.8599853515625" y="246" width="640.469970703125" height="239" />
+          <frame id="1:116" name="Link" x="855.1900024414062" y="517" width="169.6300048828125" height="48">
+            <rounded-rectangle id="1:118" name="Gradient" x="0" y="0" width="169.6300048828125" height="48" />
+            <text id="1:123" name="Essayez Craft" x="32" y="12" width="105.83000183105469" height="24" />
+            <frame id="1:128" name="Mask Group" x="0" y="0" width="169.6300048828125" height="48" />
+          </frame>
+          <frame id="1:132" name="Cloud" x="-260" y="240" width="480" height="246.75" />
+          <frame id="1:133" name="Cloud" x="1660" y="80" width="480" height="246.75" />
+        </frame>
+        <frame id="1:134" name="Section" x="420" y="1240" width="1080" height="388.4100036621094">
+          <text id="1:135" name="Heading 3 → Craft ne se limite pas à un seul usage,
+il s&#39;adapte à vos besoins." x="174.72000122070312" y="59" width="730.760009765625" height="123" />
+          <frame id="1:141" name="SVG" x="64.69000244140625" y="242" width="48" height="48" />
+          <text id="1:143" name="Docs" x="69.7300033569336" y="307" width="38.09000015258789" height="20" />
+          <frame id="1:147" name="SVG" x="290.3399963378906" y="242" width="48" height="48" />
+          <text id="1:149" name="Tâches" x="287.3800048828125" y="307" width="54.13999938964844" height="20" />
+          <frame id="1:150" name="SVG" x="516" y="242" width="48" height="48" />
+          <text id="1:152" name="Calendrier" x="500.8800048828125" y="307" width="78.44999694824219" height="20" />
+          <frame id="1:153" name="SVG" x="741.6599731445312" y="242" width="48" height="48" />
+          <text id="1:155" name="Tableaux blancs" x="704.9099731445312" y="307" width="121.68000030517578" height="20" />
+          <frame id="1:156" name="SVG" x="967.3099975585938" y="242" width="48" height="48" />
+          <text id="1:158" name="Notes quotidiennes" x="918.47998046875" y="307" width="145.86000061035156" height="20" />
+        </frame>
+        <text id="1:159" name="Heading 2 → Comment les gens utilisent Craft" x="562.6300048828125" y="1808.4100341796875" width="794.9500122070312" height="60" />
+        <frame id="1:163" name="Container" x="0" y="1928.4100341796875" width="1920" height="537.6099853515625">
+          <text id="1:164" name="Gagan, Chef de produit" x="667.530029296875" y="361" width="210.75999450683594" height="20" />
+          <text id="1:166" name="Notes, tâches, plans de voyage, brouillons de blog" x="666.22998046875" y="405.3999938964844" width="213.36000061035156" height="87.5999984741211" />
+          <frame id="1:170" name="Overlay+Shadow" x="652.8099975585938" y="0" width="240" height="300">
+            <frame id="1:171" name="Gagan" x="0" y="0" width="240" height="300" />
+            <frame id="1:172" name="Gagan" x="0" y="15" width="240" height="285" />
+          </frame>
+          <text id="1:173" name="Amity, Créatrice et éducatrice" x="985.9199829101562" y="361" width="173.97999572753906" height="42.400001525878906" />
+          <text id="1:174" name="Cours, scripts, projets, inspirations quotidiennes" x="967.6199951171875" y="427.80999755859375" width="210.5800018310547" height="87.58999633789062" />
+          <frame id="1:175" name="Overlay+Shadow" x="952.8099975585938" y="0" width="240" height="300">
+            <frame id="1:176" name="Amity Sensei" x="0" y="0" width="240" height="300" />
+            <frame id="1:177" name="Amity Sensei" x="0" y="15" width="240" height="285" />
+          </frame>
+          <text id="1:178" name="Aaron, Écrivain et podcasteur" x="1289.7900390625" y="361" width="166.24000549316406" height="42.400001525878906" />
+          <text id="1:179" name="Notes d&#39;émission, plans de livres, tâches quotidiennes" x="1262.8399658203125" y="427.80999755859375" width="220.13999938964844" height="87.58999633789062" />
+          <frame id="1:181" name="Overlay+Shadow" x="1252.81005859375" y="0" width="240" height="300">
+            <frame id="1:182" name="Aaron" x="0" y="0" width="240" height="300" />
+            <frame id="1:183" name="Aaron" x="0" y="15" width="240" height="285" />
+          </frame>
+          <text id="1:184" name="Seoyoung, Créateur" x="1580.4000244140625" y="361" width="185" height="20" />
+          <text id="1:185" name="Idées créatives, plans, projets, scénarios" x="1570.1199951171875" y="405.3999938964844" width="205.55999755859375" height="58.79999923706055" />
+          <frame id="1:186" name="Overlay+Shadow" x="1552.81005859375" y="0" width="240" height="300">
+            <frame id="1:187" name="Seoyoung" x="0" y="0" width="240" height="300" />
+          </frame>
+          <text id="1:188" name="Gian, Responsable de site" x="1857.219970703125" y="361" width="231.3699951171875" height="20" />
+          <text id="1:189" name="Rapports de travail, tableaux de projet, wiki" x="1859.7900390625" y="405.3999938964844" width="226.22000122070312" height="58.79999923706055" />
+          <frame id="1:191" name="Overlay+Shadow" x="1852.81005859375" y="0" width="240" height="300">
+            <frame id="1:192" name="Gian" x="0" y="0" width="240" height="300" />
+            <frame id="1:193" name="Gian" x="0" y="15" width="240" height="285" />
+          </frame>
+          <text id="1:194" name="Tom, Podcasteur et rédacteur de newsletters" x="82.75" y="361" width="180.32000732421875" height="64.80999755859375" />
+          <text id="1:195" name="Notes de réunion, messages pour les réseaux sociaux" x="89.9800033569336" y="450.2200012207031" width="165.86000061035156" height="87.58999633789062" />
+          <frame id="1:197" name="Overlay+Shadow" x="52.810001373291016" y="0" width="240" height="300">
+            <frame id="1:198" name="Tom" x="0" y="0" width="240" height="300" />
+            <frame id="1:199" name="Tom" x="0" y="15" width="240" height="285" />
+          </frame>
+          <text id="1:200" name="Ana, Productrice et photographe" x="380.95001220703125" y="361" width="183.9199981689453" height="42.400001525878906" />
+          <text id="1:201" name="Plans de tournage, scripts, calendriers, notes sur la garde-robe" x="364.0899963378906" y="427.80999755859375" width="217.6199951171875" height="87.58999633789062" />
+          <frame id="1:203" name="Overlay+Shadow" x="352.80999755859375" y="0" width="240" height="300">
+            <frame id="1:204" name="Ana" x="0" y="0" width="240" height="300" />
+            <frame id="1:205" name="Ana" x="0" y="15" width="240" height="285" />
+          </frame>
+        </frame>
+        <frame id="1:206" name="Container" x="420" y="2729.409912109375" width="1080" height="732">
+          <rounded-rectangle id="1:208" name="Background" x="0" y="0" width="1080" height="732" />
+          <frame id="1:209" name="Paper texture" x="0" y="0" width="1080" height="732" />
+          <frame id="1:210" name="Image" x="0" y="0" width="1080" height="732" />
+          <frame id="1:211" name="Overlay+Shadow" x="0" y="0" width="1080" height="732" />
+          <text id="1:212" name="Heading 4 → Écrire" x="640" y="56" width="60.900001525878906" height="24" />
+          <text id="1:217" name="Heading 3 → De la première idée
+à la forme finale" x="640" y="95" width="272.9700012207031" height="87.91999816894531" />
+          <text id="1:221" name="Avec Craft, vos idées vous suivent partout. Notez- les en un instant sur n’importe quel appareil, puis développez-les quand vous le souhaitez. Transformez les notes rapides prises sur votre iPhone en documents que vous êtes fier de partager." x="640" y="200.83999633789062" width="356.2200012207031" height="132.02999877929688" />
+          <frame id="1:223" name="SVG" x="640" y="459.4800109863281" width="40" height="40" />
+          <text id="1:226" name="Modèles" x="696" y="466.8699951171875" width="72.01000213623047" height="25.200000762939453" />
+          <frame id="1:231" name="SVG" x="844" y="459.4800109863281" width="40" height="40" />
+          <text id="1:233" name="Tableaux blancs" x="900" y="455.2799987792969" width="77.9000015258789" height="47.20000076293945" />
+          <frame id="1:234" name="SVG" x="640" y="541.8900146484375" width="40" height="40" />
+          <text id="1:236" name="Écrire avec l&#39;IA" x="696" y="537.6799926757812" width="92.66999816894531" height="47.209999084472656" />
+          <frame id="1:237" name="SVG" x="844" y="541.8900146484375" width="40" height="40" />
+          <text id="1:240" name="Publier et partager" x="900" y="537.6799926757812" width="80.4800033569336" height="47.209999084472656" />
+          <frame id="1:241" name="Link" x="640" y="366.2799987792969" width="171.5800018310547" height="48">
+            <rounded-rectangle id="1:242" name="Gradient" x="0" y="0" width="171.5800018310547" height="48" />
+            <text id="1:243" name="En savoir plus" x="32" y="12" width="107.77999877929688" height="24" />
+            <frame id="1:244" name="Mask Group" x="0" y="0" width="171.5800018310547" height="48" />
+          </frame>
+          <frame id="1:247" name="Background+Border+Shadow" x="48" y="48" width="420" height="420">
+            <rounded-rectangle id="1:252" name="Overlay" x="17" y="21" width="14" height="14" />
+            <rounded-rectangle id="1:255" name="Overlay" x="35" y="21" width="14" height="14" />
+            <rounded-rectangle id="1:256" name="Overlay" x="53" y="21" width="14" height="14" />
+            <frame id="1:257" name="Overlay" x="153.6999969482422" y="14" width="35" height="28">
+              <frame id="1:261" name="SVG" x="8" y="5" width="19" height="18" />
+            </frame>
+            <frame id="1:265" name="Overlay" x="192.6999969482422" y="14" width="67.58999633789062" height="28">
+              <text id="1:268" name="Todo" x="20" y="5.590000152587891" width="27.956188201904297" height="15" />
+            </frame>
+            <rounded-rectangle id="1:274" name="Rectangle" x="347" y="20" width="56" height="16" />
+            <frame id="1:275" name="Background+Border+Shadow" x="17" y="54" width="386" height="352">
+              <rounded-rectangle id="1:278" name="Border" x="33" y="40" width="14" height="14" />
+              <text id="1:281" name="Recette de pain parfaite" x="57" y="36" width="165.05184936523438" height="21" />
+              <frame id="1:287" name="Overlay" x="230.3300018310547" y="36.09000015258789" width="50.41999816894531" height="20.799999237060547">
+                <text id="1:288" name="Cuisine" x="5" y="2" width="40.743186950683594" height="15" />
+              </frame>
+              <rounded-rectangle id="1:291" name="Border" x="33" y="67" width="14" height="14" />
+              <text id="1:292" name="Nourrir le levain" x="57" y="63" width="108.45732879638672" height="21" />
+              <frame id="1:293" name="Overlay" x="175.08999633789062" y="63.09000015258789" width="109.16999816894531" height="20.799999237060547">
+                <text id="1:294" name="Boîte de réception" x="5" y="2" width="99.8301773071289" height="15" />
+              </frame>
+              <rounded-rectangle id="1:295" name="Border" x="33" y="94" width="14" height="14" />
+              <text id="1:296" name="Réserver des billets pour Barcelone" x="57" y="90" width="243.0888214111328" height="21" />
+              <frame id="1:297" name="Overlay" x="57" y="121" width="50.97999954223633" height="20.799999237060547">
+                <text id="1:298" name="Voyage" x="5" y="2" width="41.30493927001953" height="15" />
+              </frame>
+              <rounded-rectangle id="1:299" name="Border" x="33" y="151.7899932861328" width="14" height="14" />
+              <text id="1:300" name="Trouver des restaurants à essayer" x="57" y="147.7899932861328" width="233.2411346435547" height="21" />
+              <frame id="1:301" name="Overlay" x="299.8599853515625" y="147.88999938964844" width="50.97999954223633" height="20.799999237060547">
+                <text id="1:302" name="Voyage" x="5" y="2" width="41.30493927001953" height="15" />
+              </frame>
+              <text id="1:303" name="J&#39;ai de nouveau pensé à Bourdain. Pas seulement la nourriture, les couteaux, l&#39;arrière-cuisine, mais aussi la façon dont il se déplaçait dans le monde. Curieux. Acerbe. Honnête. Avec des défauts qui avaient du sens. Ce genre d&#39;honnêteté me manque." x="33" y="180.7899932861328" width="311.7799987792969" height="131.5" />
+              <rounded-rectangle id="1:306" name="Gradient" x="1" y="159" width="384" height="180" />
+            </frame>
+          </frame>
+          <frame id="1:307" name="Background+Border+Shadow" x="90" y="208" width="480" height="480">
+            <rounded-rectangle id="1:310" name="Overlay" x="17" y="21" width="14" height="14" />
+            <rounded-rectangle id="1:311" name="Overlay" x="35" y="21" width="14" height="14" />
+            <rounded-rectangle id="1:312" name="Overlay" x="53" y="21" width="14" height="14" />
+            <frame id="1:313" name="Overlay" x="146.47000122070312" y="14" width="35" height="28">
+              <frame id="1:314" name="SVG" x="8" y="5" width="19" height="18" />
+            </frame>
+            <frame id="1:316" name="Overlay" x="185.47000122070312" y="14" width="142.05999755859375" height="28">
+              <text id="1:317" name="Mon pain au levain" x="20" y="5.590000152587891" width="102.41790771484375" height="15" />
+            </frame>
+            <rounded-rectangle id="1:318" name="Rectangle" x="407" y="20" width="56" height="16" />
+            <frame id="1:319" name="Background+Border+Shadow" x="17" y="54" width="446" height="452">
+              <text id="1:322" name="Mon pain au levain" x="33" y="43" width="174.35116577148438" height="24" />
+              <frame id="1:328" name="Separator" x="33" y="77" width="380" height="1" />
+              <rounded-rectangle id="1:329" name="Border" x="33" y="101" width="14" height="14" />
+              <text id="1:330" name="500 g de farine de pain" x="57" y="97" width="159.6336669921875" height="21" />
+              <rounded-rectangle id="1:331" name="Border" x="33" y="128" width="14" height="14" />
+              <text id="1:332" name="350 g d&#39;eau tiède" x="57" y="124" width="120.52615356445312" height="21" />
+              <rounded-rectangle id="1:333" name="Border" x="33" y="155" width="14" height="14" />
+              <text id="1:334" name="100 g de levain actif" x="57" y="151" width="137.2198028564453" height="21" />
+              <rounded-rectangle id="1:335" name="Border" x="33" y="182" width="14" height="14" />
+              <text id="1:336" name="10 g de sel" x="57" y="178" width="73.92684173583984" height="21" />
+              <text id="1:337" name="Commencez le matin. Prenez un grand bol et mélangez 500 g de farine de pain (ou tout usage, n&#39;y pensez pas trop) avec 350 g d&#39;eau tiède. Mélangez le tout pour obtenir une pâte hirsute. Il ne s&#39;agit pas de pétrir, mais de mélanger. Couvrez le bol et laissez-le reposer pendant 30 à 45 minutes. Laissez la farine et l&#39;eau apprendre à se connaître, c&#39;est l&#39;autolyse, là où la magie commence." x="33" y="227" width="378.92999267578125" height="176.5" />
+              <text id="1:338" name="Revenez. Ajoutez maintenant 100 g de votre levain" x="33" y="423" width="345.851318359375" height="19" />
+              <rounded-rectangle id="1:339" name="Gradient" x="1" y="299" width="444" height="140" />
+            </frame>
+          </frame>
+        </frame>
+        <text id="1:341" name="Tom" x="548" y="3715.409912109375" width="40.25" height="28" />
+        <rounded-rectangle id="1:344" name="Horizontal Divider" x="612.0499877929688" y="3728.909912109375" width="135.9499969482422" height="1" />
+        <frame id="1:347" name="Overlay+Border+Shadow" x="468" y="3701.409912109375" width="56" height="56">
+          <frame id="1:348" name="Tom avatar" x="1" y="1" width="54" height="54" />
+        </frame>
+        <frame id="1:350" name="Blockquote" x="788" y="3701.409912109375" width="664" height="144">
+          <text id="1:351" name="«" x="-16" y="0" width="14.5" height="48" />
+          <text id="1:355" name="Publier directement à partir de Craft me semble" x="2.1700000762939453" y="4" width="588.47998046875" height="39" />
+          <text id="1:357" name="naturel — c&#39;est là que j&#39;écris, il est donc logique de partager à partir de là aussi. »" x="0" y="52" width="608.75" height="87" />
+        </frame>
+        <frame id="1:359" name="Container" x="420" y="4025.409912109375" width="1080" height="628.7999877929688">
+          <rounded-rectangle id="1:360" name="Background" x="0" y="0" width="1080" height="628.7999877929688" />
+          <frame id="1:362" name="Paper texture" x="0" y="0" width="1080" height="628.7999877929688" />
+          <frame id="1:363" name="Image" x="0" y="0" width="1080" height="628.7999877929688" />
+          <frame id="1:364" name="Overlay+Shadow" x="0" y="0" width="1080" height="628.7999877929688" />
+          <text id="1:365" name="Heading 4 → Imaginez" x="72" y="72" width="83.19999694824219" height="24" />
+          <text id="1:366" name="Heading 3 → Imaginez les
+possibilités
+lorsque tout est
+connecté à Craft" x="72" y="111" width="232.67999267578125" height="175.75999450683594" />
+          <text id="1:368" name="Faites de Craft le vôtre — connectez les outils que vous aimez, créez ce dont vous avez besoin." x="72" y="304.67999267578125" width="220.02999877929688" height="87.22000122070312" />
+          <frame id="1:369" name="Link" x="72" y="425.30999755859375" width="171.5800018310547" height="48">
+            <rounded-rectangle id="1:370" name="Gradient" x="0" y="0" width="171.5800018310547" height="48" />
+            <text id="1:371" name="En savoir plus" x="32" y="12" width="107.77999877929688" height="24" />
+            <frame id="1:372" name="Mask Group" x="0" y="0" width="171.5800018310547" height="48" />
+          </frame>
+          <frame id="1:375" name="Overlay+Shadow" x="380" y="48" width="318" height="208">
+            <frame id="1:378" name="SVG" x="24" y="24" width="28" height="28" />
+            <text id="1:382" name="MCP connections" x="64" y="26" width="135.80999755859375" height="24" />
+            <frame id="1:383" name="Link" x="27.75" y="72" width="48" height="48">
+              <frame id="1:384" name="Claude" x="0" y="0" width="48" height="48" />
+              <frame id="1:386" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:389" name="Claude" x="7.670000076293945" y="17.75" width="32.84000015258789" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:392" name="Link" x="99.25" y="72" width="48" height="48">
+              <frame id="1:393" name="ChatGPT" x="0" y="0" width="48" height="48" />
+              <frame id="1:394" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:395" name="ChatGPT" x="2.5" y="17.75" width="43.20000076293945" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:396" name="Link" x="170.75" y="72" width="48" height="48">
+              <frame id="1:397" name="Claude Code" x="0" y="0" width="48" height="48" />
+              <frame id="1:398" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:399" name="Claude Code" x="7.670000076293945" y="11.5" width="32.84000015258789" height="24.5" />
+              </frame>
+            </frame>
+            <frame id="1:400" name="Link" x="242.25" y="72" width="48" height="48">
+              <frame id="1:401" name="Windsurf" x="0" y="0" width="48" height="48" />
+              <frame id="1:402" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:403" name="Windsurf" x="2.700000047683716" y="17.75" width="42.810001373291016" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:404" name="Link" x="27.75" y="136" width="48" height="48">
+              <frame id="1:405" name="Cursor" x="0" y="0" width="48" height="48" />
+              <frame id="1:406" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:407" name="Cursor" x="8.270000457763672" y="17.75" width="31.670000076293945" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:408" name="Link" x="99.25" y="136" width="48" height="48">
+              <frame id="1:409" name="Visual Studio Code" x="0" y="0" width="48" height="48" />
+              <frame id="1:410" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:411" name="Visual Studio Code" x="8.630000114440918" y="5.25" width="30.950000762939453" height="37" />
+              </frame>
+            </frame>
+            <frame id="1:412" name="Link" x="170.75" y="136" width="48" height="48">
+              <frame id="1:413" name="Raycast" x="0" y="0" width="48" height="48" />
+              <frame id="1:414" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:415" name="Raycast" x="5.25" y="17.75" width="37.68000030517578" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:416" name="Link" x="242.25" y="136" width="48" height="48">
+              <frame id="1:417" name="Other MCP Clients" x="0" y="0" width="48" height="48" />
+              <frame id="1:418" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:419" name="Other MCP Clients" x="7.75" y="5.25" width="32.68000030517578" height="37" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:420" name="Overlay+Shadow" x="714" y="48" width="318" height="208">
+            <frame id="1:421" name="SVG" x="24" y="24" width="28" height="28" />
+            <text id="1:426" name="API integrations" x="64" y="26" width="125.75" height="24" />
+            <frame id="1:427" name="Link" x="27.75" y="72" width="48" height="48">
+              <frame id="1:428" name="Lovable" x="0" y="0" width="48" height="48" />
+              <frame id="1:429" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:430" name="Lovable" x="5.559999942779541" y="17.75" width="37.08000183105469" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:431" name="Link" x="99.25" y="72" width="48" height="48">
+              <frame id="1:432" name="Replit" x="0" y="0" width="48" height="48" />
+              <frame id="1:433" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:434" name="Replit" x="10.229999542236328" y="17.75" width="27.729999542236328" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:435" name="Link" x="170.75" y="72" width="48" height="48">
+              <frame id="1:436" name="Apple Shortcuts" x="0" y="0" width="48" height="48" />
+              <frame id="1:437" name="Overlay" x="-8" y="0" width="64" height="48">
+                <text id="1:438" name="Apple Shortcuts" x="8.890000343322754" y="11.5" width="46.41999816894531" height="24.5" />
+              </frame>
+            </frame>
+            <frame id="1:439" name="Link" x="242.25" y="72" width="48" height="48">
+              <frame id="1:440" name="Bolt" x="0" y="0" width="48" height="48" />
+              <frame id="1:441" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:442" name="Bolt" x="14.529999732971191" y="17.75" width="19.1200008392334" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:443" name="Link" x="27.75" y="136" width="48" height="48">
+              <frame id="1:444" name="v0" x="0" y="0" width="48" height="48" />
+              <frame id="1:445" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:446" name="v0" x="17.889999389648438" y="17.75" width="12.420000076293945" height="12" />
+              </frame>
+            </frame>
+            <frame id="1:447" name="Link" x="99.25" y="136" width="48" height="48">
+              <frame id="1:448" name="Claude Code" x="0" y="0" width="48" height="48" />
+              <frame id="1:449" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:450" name="Claude Code" x="7.670000076293945" y="11.5" width="32.84000015258789" height="24.5" />
+              </frame>
+            </frame>
+            <frame id="1:451" name="Link" x="170.75" y="136" width="48" height="48">
+              <frame id="1:452" name="Codex CLI" x="0" y="0" width="48" height="48" />
+              <frame id="1:453" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:454" name="Codex CLI" x="9.130000114440918" y="11.5" width="29.950000762939453" height="24.5" />
+              </frame>
+            </frame>
+            <frame id="1:455" name="Link" x="242.25" y="136" width="48" height="48">
+              <frame id="1:456" name="Other Tools" x="0" y="0" width="48" height="48" />
+              <frame id="1:457" name="Overlay" x="0" y="0" width="48" height="48">
+                <text id="1:458" name="Other Tools" x="10.640000343322754" y="11.5" width="26.899999618530273" height="24.5" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:459" name="Overlay+Shadow" x="380" y="276" width="652" height="192">
+            <frame id="1:460" name="SVG" x="24" y="24" width="28" height="28" />
+            <text id="1:463" name="Start Building" x="64" y="26" width="107.79000091552734" height="24" />
+            <frame id="1:464" name="Link" x="24" y="68" width="296" height="44">
+              <text id="1:465" name="Blog Publisher" x="98.5" y="13" width="99.18000030517578" height="17" />
+            </frame>
+            <frame id="1:467" name="Link" x="332" y="68" width="296" height="44">
+              <text id="1:468" name="Reading Tracker" x="91.91999816894531" y="13" width="112.33999633789062" height="17" />
+            </frame>
+            <frame id="1:469" name="Link" x="24" y="124" width="296" height="44">
+              <text id="1:470" name="Plant Dashboard" x="91.33999633789062" y="13" width="113.5" height="17" />
+            </frame>
+            <frame id="1:471" name="Link" x="332" y="124" width="296" height="44">
+              <text id="1:472" name="Dream Journal" x="97.66000366210938" y="13" width="100.88999938964844" height="17" />
+            </frame>
+          </frame>
+          <frame id="1:473" name="Link" x="380" y="488" width="652" height="92.80000305175781">
+            <frame id="1:474" name="SVG" x="24" y="32.38999938964844" width="28" height="28" />
+            <text id="1:479" name="Communauté" x="64" y="34.38999938964844" width="105.30999755859375" height="24" />
+            <frame id="1:480" name="Container" x="255.41000366210938" y="26.389999389648438" width="168" height="40">
+              <rounded-rectangle id="1:481" name="Background" x="0" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:483" name="Background" x="32" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:484" name="Background" x="64" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:485" name="Background" x="96" y="0" width="40" height="40" />
+              <frame id="1:488" name="Image+Background" x="128" y="0" width="40" height="40">
+                <frame id="1:491" name="image" x="0" y="0" width="40" height="40" />
+              </frame>
+            </frame>
+            <text id="1:494" name="200+ builders" x="439.4100036621094" y="24" width="118.72000122070312" height="25.200000762939453" />
+            <text id="1:496" name="Explore community templates" x="439.4100036621094" y="50.20000076293945" width="188.7899932861328" height="17" />
+          </frame>
+        </frame>
+        <frame id="1:500" name="Section" x="468" y="4894.2001953125" width="984" height="214">
+          <frame id="1:501" name="Prix de l&#39;App Store" x="83" y="8" width="73.9800033569336" height="67.83000183105469" />
+          <text id="1:502" name="Prix de l&#39;App Store" x="42.38999938964844" y="107.83000183105469" width="155.39999389648438" height="25.200000762939453" />
+          <text id="1:503" name="Application Mac de l&#39;année" x="23.84000015258789" y="142.02999877929688" width="192.5" height="20" />
+          <frame id="1:504" name="Prix de design Apple" x="331" y="8" width="73.9800033569336" height="67.83000183105469" />
+          <text id="1:505" name="Prix de design Apple" x="281.9200134277344" y="107.83000183105469" width="172.36000061035156" height="25.200000762939453" />
+          <text id="1:506" name="Finaliste" x="337.5799865722656" y="142.02999877929688" width="61.040000915527344" height="20" />
+          <frame id="1:507" name="Webby" x="579" y="8" width="73.9800033569336" height="67.83000183105469" />
+          <text id="1:508" name="Webby" x="586.5900268554688" y="107.83000183105469" width="59" height="25.200000762939453" />
+          <text id="1:509" name="Récompensé à trois reprises dans différentes catégories" x="514.6400146484375" y="142.02999877929688" width="202.89999389648438" height="42.40999984741211" />
+          <frame id="1:510" name="Prix de design allemand" x="827" y="8" width="73.9800033569336" height="67.83000183105469" />
+          <text id="1:511" name="Prix de design allemand" x="763.9400024414062" y="107.83000183105469" width="200.30999755859375" height="25.200000762939453" />
+          <text id="1:512" name="Excellence en communication — Design interactif UX" x="747.5599975585938" y="142.02999877929688" width="233.0800018310547" height="42.40999984741211" />
+        </frame>
+        <text id="1:513" name="Amity Sensei" x="1252" y="5302.2001953125" width="116.02999877929688" height="28" />
+        <rounded-rectangle id="1:514" name="Horizontal Divider" x="1391.8299560546875" y="5315.7001953125" width="60.16999816894531" height="1" />
+        <frame id="1:515" name="Overlay+Border+Shadow" x="1172" y="5288.2001953125" width="56" height="56">
+          <frame id="1:516" name="Amity Sensei avatar" x="1" y="1" width="54" height="54" />
+        </frame>
+        <frame id="1:517" name="Blockquote" x="468" y="5288.2001953125" width="664" height="144">
+          <text id="1:518" name="«" x="-16" y="0" width="14.5" height="48" />
+          <text id="1:519" name="Je peux rendre mes notes non seulement fonctionnelles" x="2.1700000762939453" y="4" width="657.969970703125" height="39" />
+          <text id="1:521" name="mais aussi visuellement agréables — ce qui me motive vraiment à rester organisée. »" x="0" y="52" width="662.969970703125" height="87" />
+        </frame>
+        <frame id="1:522" name="Container" x="420" y="5612.2001953125" width="1080" height="768">
+          <rounded-rectangle id="1:523" name="Background" x="0" y="0" width="1080" height="768" />
+          <frame id="1:524" name="Paper texture" x="0" y="0" width="1080" height="768" />
+          <frame id="1:525" name="Image" x="0" y="0" width="1080" height="768" />
+          <frame id="1:526" name="Overlay+Shadow" x="0" y="0" width="1080" height="768" />
+          <text id="1:527" name="Heading 4 → Plan" x="72" y="72" width="46.220001220703125" height="24" />
+          <text id="1:528" name="Heading 3 → Une
+planification qui
+ne ressemble pas
+à du travail" x="72" y="111" width="241.2899932861328" height="175.77000427246094" />
+          <text id="1:530" name="Gardez vos idées et vos tâches ensemble, là où elles doivent être. Craft intègre des tâches directement dans vos documents, ce qui permet à vos idées les plus pertinentes de rester connectées à ce qui doit être fait." x="72" y="304.69000244140625" width="243.63999938964844" height="154.44000244140625" />
+          <frame id="1:531" name="Link" x="72" y="492.5299987792969" width="171.5800018310547" height="48">
+            <rounded-rectangle id="1:532" name="Gradient" x="0" y="0" width="171.5800018310547" height="48" />
+            <text id="1:533" name="En savoir plus" x="32" y="12" width="107.77999877929688" height="24" />
+            <frame id="1:534" name="Mask Group" x="0" y="0" width="171.5800018310547" height="48" />
+          </frame>
+          <frame id="1:537" name="Overlay+Shadow" x="380" y="48" width="316" height="326">
+            <frame id="1:538" name="Paragraph+Background" x="24" y="177.82000732421875" width="268" height="124.19000244140625">
+              <text id="1:541" name="16 Aug" x="19.5" y="18" width="63.79199981689453" height="28" />
+              <text id="1:543" name="Aujourd’hui" x="19.5" y="48" width="126.80595397949219" height="29" />
+              <text id="1:549" name="Dimanche" x="19.5" y="80.58999633789062" width="88.46614074707031" height="23" />
+            </frame>
+            <frame id="1:556" name="SVG" x="24" y="24" width="40" height="40" />
+            <text id="1:558" name="Calendrier" x="80" y="31.389999389648438" width="88.2300033569336" height="25.200000762939453" />
+          </frame>
+          <frame id="1:559" name="Overlay+Shadow" x="716" y="48" width="316" height="326">
+            <frame id="1:560" name="Container" x="24" y="64" width="378" height="238">
+              <frame id="1:561" name="Background" x="24" y="47" width="14" height="14">
+                <text id="1:564" name="✓" x="2.25" y="-0.11999999731779099" width="9.699999809265137" height="14.25" />
+              </frame>
+              <text id="1:568" name="Faire les valises" x="48" y="43" width="108.20693969726562" height="21" />
+              <rounded-rectangle id="1:570" name="Border" x="24" y="74" width="14" height="14" />
+              <text id="1:571" name="Imprimer les billets" x="48" y="70" width="129.00938415527344" height="21" />
+              <frame id="1:572" name="Overlay" x="48" y="101" width="109.16999816894531" height="20.799999237060547">
+                <text id="1:573" name="Boîte de réception" x="5" y="2" width="99.8301773071289" height="15" />
+              </frame>
+              <frame id="1:574" name="Background" x="163.1699981689453" y="101" width="83.83000183105469" height="20.799999237060547">
+                <frame id="1:575" name="SVG" x="5" y="5.389999866485596" width="10" height="10" />
+                <text id="1:577" name="Aujourd’hui" x="17" y="2" width="62.2200927734375" height="15" />
+              </frame>
+              <rounded-rectangle id="1:578" name="Border" x="24" y="131.8000030517578" width="14" height="14" />
+              <text id="1:579" name="Définir un e-mail de réponse automatique pour les vacances" x="48" y="128.8000030517578" width="284.2300109863281" height="40" />
+              <frame id="1:580" name="Overlay" x="48" y="179.8000030517578" width="109.16999816894531" height="20.799999237060547">
+                <text id="1:581" name="Boîte de réception" x="5" y="2" width="99.8301773071289" height="15" />
+              </frame>
+              <frame id="1:582" name="Background" x="24" y="219.60000610351562" width="169.16000366210938" height="33">
+                <frame id="1:583" name="SVG" x="8" y="8" width="17" height="17" />
+                <text id="1:586" name="Ajouter une tâche" x="31" y="8.5" width="130.7636260986328" height="16" />
+              </frame>
+            </frame>
+            <frame id="1:588" name="SVG" x="24" y="24" width="40" height="40" />
+            <text id="1:590" name="Tâches" x="80" y="31.389999389648438" width="60.88999938964844" height="25.200000762939453" />
+          </frame>
+          <frame id="1:591" name="Overlay+Shadow" x="380" y="394" width="316" height="326">
+            <frame id="1:592" name="Background+Border+Shadow" x="24" y="113" width="268" height="189">
+              <text id="1:593" name="Aujourd’hui" x="25" y="35" width="108.95332336425781" height="24" />
+              <frame id="1:594" name="Separator" x="25" y="69" width="218" height="1" />
+              <frame id="1:595" name="SVG" x="25" y="94" width="214" height="29" />
+              <text id="1:632" name="Cette note n&#39;est pas urgente. Il s&#39;agit d&#39;une observation. Son rôle est de conserver des fragments de la" x="25" y="144" width="289.3399963378906" height="55" />
+              <rounded-rectangle id="1:637" name="Gradient" x="210" y="6" width="57" height="170" />
+            </frame>
+            <frame id="1:638" name="SVG" x="24" y="24" width="40" height="40" />
+            <text id="1:640" name="Journal" x="80" y="31.389999389648438" width="64.62000274658203" height="25.200000762939453" />
+          </frame>
+          <frame id="1:641" name="Overlay+Shadow" x="716" y="394" width="316" height="326">
+            <text id="1:642" name="12:30" x="48" y="166.97000122070312" width="42.55624771118164" height="20" />
+            <text id="1:646" name="・Zoom avec Lena :" x="90" y="166.97000122070312" width="150.2899932861328" height="20" />
+            <text id="1:650" name="derniers détails du voyage" x="106" y="189.3800048828125" width="140.61000061035156" height="42.400001525878906" />
+            <text id="1:651" name="17:10" x="48" y="234.19000244140625" width="38.745750427246094" height="20" />
+            <text id="1:652" name="・Consultez cette page" x="90" y="234.19000244140625" width="177.14999389648438" height="20" />
+            <text id="1:653" name="sur Craft" x="106" y="256.6000061035156" width="66.33456420898438" height="20" />
+            <frame id="1:654" name="SVG" x="24" y="24" width="40" height="40" />
+            <text id="1:656" name="Rappels" x="80" y="31.389999389648438" width="68.93000030517578" height="25.200000762939453" />
+          </frame>
+        </frame>
+        <frame id="1:657" name="Section" x="420" y="6620.2001953125" width="1080" height="726.4099731445312">
+          <frame id="1:658" name="Cloud" x="819" y="120" width="461" height="236.97000122070312" />
+          <text id="1:659" name="Label → Organiser" x="490.5299987792969" y="0" width="99.12000274658203" height="24" />
+          <text id="1:663" name="Heading 2 → Une structure qui
+s&#39;adapte
+à votre pensée" x="327.6300048828125" y="33" width="424.95001220703125" height="194" />
+          <text id="1:665" name="Choisissez l&#39;approche qui vous convient le mieux : organisez avec des espaces, des dossiers et des étiquettes, ou créez des bases de données riches avec des collections" x="198.8300018310547" y="237" width="682.5399780273438" height="47.209999084472656" />
+          <frame id="1:667" name="Container" x="0" y="346.4100036621094" width="344" height="380">
+            <frame id="1:668" name="background image" x="0" y="0" width="344" height="380" />
+            <frame id="1:669" name="Overlay+Shadow" x="0" y="0" width="344" height="380" />
+            <text id="1:670" name="Heading 5 → Espaces" x="116.75" y="24" width="110.69999694824219" height="40.79999923706055" />
+            <text id="1:674" name="Basculer entre le mode travail et le mode personnel" x="66.5199966430664" y="73.80000305175781" width="211.16000366210938" height="42.400001525878906" />
+            <frame id="1:675" name="Background+Shadow" x="20" y="149.61000061035156" width="225" height="331.5">
+              <frame id="1:676" name="SVG" x="16" y="20" width="21" height="20">
+                <vector id="1:677" name="Vector" x="0.5820310115814209" y="0" width="20" height="20" />
+                <vector id="1:678" name="Vector" x="0.5820310115814209" y="0" width="20" height="20" />
+                <vector id="1:679" name="Vector" x="0.5820310115814209" y="0" width="20" height="20" />
+                <vector id="1:680" name="Vector" x="0.5820310115814209" y="0" width="20" height="20" />
+                <vector id="1:681" name="Vector" x="1.0820300579071045" y="0.5" width="19" height="19" />
+              </frame>
+              <text id="1:684" name="Espace personnel" x="45" y="20.25" width="112.17023468017578" height="19.5" />
+              <frame id="1:687" name="SVG" x="209" y="26" width="12" height="12" />
+              <text id="1:690" name="Étoilé" x="16" y="69" width="32.51374816894531" height="15" />
+              <frame id="1:692" name="SVG" x="20" y="98" width="16" height="20" />
+              <text id="1:707" name="Routine d&#39;entraînement" x="44" y="98.25" width="142.98068237304688" height="19.5" />
+              <frame id="1:711" name="SVG" x="20" y="126" width="16" height="20" />
+              <text id="1:721" name="Horaire de Lily" x="44" y="126.25" width="89.27740478515625" height="19.5" />
+              <text id="1:722" name="Dossiers" x="16" y="167" width="50.8327522277832" height="15" />
+              <frame id="1:723" name="SVG" x="20" y="200.75" width="10" height="10" />
+              <frame id="1:726" name="SVG" x="38" y="199.25" width="15" height="13" />
+              <text id="1:730" name="Notes" x="61" y="196" width="36.579750061035156" height="19.5" />
+              <text id="1:731" name="❤️‍🔥" x="38" y="223.5" width="21.325000762939453" height="24" />
+              <text id="1:733" name="Idée" x="67" y="225.75" width="26.970062255859375" height="19.5" />
+            </frame>
+            <frame id="1:734" name="Background+Shadow" x="99" y="221.61000061035156" width="225" height="409.5">
+              <frame id="1:735" name="space icon" x="16" y="20" width="20" height="20" />
+              <text id="1:736" name="Hard Work Space" x="44" y="20.25" width="109.00818634033203" height="19.5" />
+              <frame id="1:737" name="SVG" x="209" y="26" width="12" height="12" />
+              <text id="1:739" name="Étoilé" x="16" y="69" width="32.51374816894531" height="15" />
+              <frame id="1:740" name="SVG" x="20" y="98" width="16" height="20" />
+              <text id="1:753" name="Identité de la marque" x="44" y="98.25" width="130.08148193359375" height="19.5" />
+              <text id="1:754" name="Tags" x="16" y="139" width="28.03668785095215" height="15" />
+            </frame>
+          </frame>
+          <frame id="1:755" name="Container" x="368" y="346.4100036621094" width="344" height="380">
+            <frame id="1:756" name="background image" x="0" y="0" width="344" height="380" />
+            <frame id="1:757" name="Overlay+Shadow" x="0" y="0" width="344" height="380" />
+            <text id="1:758" name="Heading 5 → Dossiers et tags" x="64.44000244140625" y="24" width="215.30999755859375" height="40.79999923706055" />
+            <text id="1:760" name="Structure classique pour des hiérarchies claires" x="69.58000183105469" y="73.80000305175781" width="205.00999450683594" height="42.400001525878906" />
+            <frame id="1:761" name="Background+Shadow" x="16.889999389648438" y="176.5399932861328" width="225.22449323534966" height="207.35149842500687">
+              <text id="1:762" name="Dossiers" x="15.992984771728516" y="21.000165939331055" width="52.421754314472764" height="21.924486827268993" />
+              <frame id="1:763" name="SVG" x="19.9954776763916" y="54.74561309814453" width="11.302326985997183" height="11.302326985997752" />
+              <frame id="1:765" name="SVG" x="37.99930191040039" y="53.246673583984375" width="16.659221018573874" height="14.957444987027884" />
+              <text id="1:767" name="Notes" x="60.99643325805664" y="50.99534606933594" width="38.45291710933151" height="20.941469817325014" />
+              <frame id="1:768" name="SVG" x="19.998519897460938" y="82.24364471435547" width="11.291142181321334" height="11.291142181321447" />
+              <frame id="1:770" name="SVG" x="38.00234603881836" y="80.74470520019531" width="16.657676327745378" height="14.956057759681244" />
+              <text id="1:772" name="Idée" x="60.999473571777344" y="78.49337768554688" width="28.933721992195785" height="19.603634061740195" />
+              <frame id="1:773" name="SVG" x="19.99818992614746" y="111.99311828613281" width="11.291142181321334" height="11.291142181321447" />
+              <text id="1:775" name="🧘‍♂️" x="37.998321533203125" y="106.9996566772461" width="23.904072285278517" height="22.76804955838088" />
+              <text id="1:776" name="Réflexion" x="66.9968490600586" y="108.24761962890625" width="58.77737512456332" height="23.788273502485936" />
+              <frame id="1:777" name="SVG" x="19.994487762451172" y="143.99403381347656" width="11.302326985997183" height="11.302326985997752" />
+              <text id="1:779" name="🌍" x="37.9946174621582" y="139.00057983398438" width="13.498298894431741" height="21.306964920446262" />
+              <text id="1:780" name="Voyage" x="56.50107192993164" y="140.24832153320312" width="48.06393909221106" height="22.281248387044798" />
+            </frame>
+            <frame id="1:781" name="Paragraph+Background+Shadow" x="152.1300048828125" y="149.89999389648438" width="192.81326884031296" height="149.40742430090904">
+              <text id="1:782" name="Tags" x="15.998028755187988" y="20.997854232788086" width="29.850092339960838" height="18.752246308938084" />
+              <text id="1:783" name="#" x="20.000595092773438" y="51.9924430847168" width="13.136659903904842" height="21.265752752728986" />
+              <text id="1:784" name="idée" x="38.142147064208984" y="53.24986267089844" width="28.599779456816748" height="19.54708861184008" />
+              <text id="1:785" name="#" x="19.994394302368164" y="83.9947509765625" width="13.144995884153332" height="21.265572718262774" />
+              <text id="1:786" name="design" x="38.13594436645508" y="85.25216674804688" width="43.357781915275154" height="21.61984106581349" />
+            </frame>
+          </frame>
+          <frame id="1:787" name="Container" x="736" y="346.4100036621094" width="344" height="380">
+            <frame id="1:788" name="background image" x="0" y="0" width="344" height="380" />
+            <frame id="1:789" name="Overlay+Shadow" x="0" y="0" width="344" height="380" />
+            <text id="1:790" name="Heading 5 → Collections" x="95.91999816894531" y="24" width="152.33999633789062" height="40.79999923706055" />
+            <text id="1:791" name="Pour un suivi structuré et des données riches" x="91.7300033569336" y="73.80000305175781" width="160.72000122070312" height="42.400001525878906" />
+            <frame id="1:792" name="Border" x="24" y="149.61000061035156" width="500" height="278">
+              <frame id="1:795" name="Background" x="1" y="1" width="498" height="276">
+                <text id="1:798" name="#" x="25.190000534057617" y="12" width="7.975249767303467" height="18" />
+                <text id="1:800" name="Aa Titre" x="54" y="12" width="44.635311126708984" height="18" />
+                <frame id="1:801" name="SVG" x="200.66000366210938" y="16.5" width="11" height="9" />
+                <text id="1:803" name="Auteur" x="221.66000366210938" y="12" width="38.1150016784668" height="18" />
+                <frame id="1:804" name="Background+Border" x="12" y="38" width="474" height="226">
+                  <frame id="1:807" name="HorizontalBorder" x="1" y="1" width="472" height="32">
+                    <frame id="1:808" name="SVG" x="23" y="9.5" width="12" height="12" />
+                    <frame id="1:810" name="Background" x="42" y="6.5" width="67.83999633789062" height="18">
+                      <text id="1:813" name="Essentials" x="5" y="1" width="59.28337478637695" height="15" />
+                    </frame>
+                    <frame id="1:816" name="SVG" x="119.83999633789062" y="10.5" width="10" height="10" />
+                  </frame>
+                  <frame id="1:821" name="HorizontalBorder" x="1" y="33" width="472" height="32">
+                    <frame id="1:822" name="VerticalBorder" x="0" y="-0.5" width="34" height="32">
+                      <text id="1:823" name="1" x="14.050000190734863" y="8" width="5.2845001220703125" height="15" />
+                    </frame>
+                    <frame id="1:826" name="VerticalBorder" x="34" y="0" width="146.3300018310547" height="31">
+                      <frame id="1:827" name="SVG" x="8" y="8.5" width="13" height="14">
+                        <vector id="1:828" name="Vector" x="1.5" y="1" width="10.5" height="12" />
+                        <vector id="1:829" name="Vector" x="1.125" y="0.625" width="11.25" height="12.75" />
+                      </frame>
+                      <text id="1:833" name="Ada’s Algorithm" x="31" y="6.5" width="89.21731567382812" height="18" />
+                      <rounded-rectangle id="1:834" name="Gradient" x="115.33000183105469" y="0" width="30" height="31" />
+                    </frame>
+                    <frame id="1:835" name="VerticalBorder" x="180.3300018310547" y="0" width="146.33999633789062" height="31">
+                      <text id="1:836" name="James Essinger" x="8" y="6.5" width="89.89837646484375" height="18" />
+                      <rounded-rectangle id="1:837" name="Gradient" x="115.33999633789062" y="0" width="30" height="31" />
+                    </frame>
+                  </frame>
+                  <frame id="1:838" name="HorizontalBorder" x="1" y="65" width="472" height="32">
+                    <frame id="1:839" name="VerticalBorder" x="0" y="-0.5" width="34" height="32">
+                      <text id="1:840" name="2" x="12.829999923706055" y="8" width="7.6882500648498535" height="15" />
+                    </frame>
+                    <frame id="1:841" name="VerticalBorder" x="34" y="0" width="146.3300018310547" height="31">
+                      <frame id="1:842" name="SVG" x="8" y="8.5" width="13" height="14">
+                        <vector id="1:843" name="Vector" x="1.5" y="1" width="10.5" height="12" />
+                        <vector id="1:844" name="Vector" x="1.125" y="0.625" width="11.25" height="12.75" />
+                      </frame>
+                      <text id="1:845" name="Dream Machine" x="31" y="6.5" width="89.587890625" height="18" />
+                      <rounded-rectangle id="1:846" name="Gradient" x="115.33000183105469" y="0" width="30" height="31" />
+                    </frame>
+                    <frame id="1:847" name="VerticalBorder" x="180.3300018310547" y="0" width="146.33999633789062" height="31">
+                      <text id="1:848" name="Mitchell Waldrop" x="8" y="6.5" width="95.11651611328125" height="18" />
+                      <rounded-rectangle id="1:849" name="Gradient" x="115.33999633789062" y="0" width="30" height="31" />
+                    </frame>
+                  </frame>
+                  <frame id="1:850" name="HorizontalBorder" x="1" y="97" width="472" height="32">
+                    <frame id="1:851" name="VerticalBorder" x="0" y="-0.5" width="34" height="32">
+                      <text id="1:852" name="3" x="12.779999732971191" y="8" width="7.7804999351501465" height="15" />
+                    </frame>
+                    <frame id="1:853" name="VerticalBorder" x="34" y="0" width="146.3300018310547" height="31">
+                      <frame id="1:854" name="SVG" x="8" y="8.5" width="13" height="14">
+                        <vector id="1:855" name="Vector" x="1.5" y="1" width="10.5" height="12" />
+                        <vector id="1:856" name="Vector" x="1.125" y="0.625" width="11.25" height="12.75" />
+                      </frame>
+                      <text id="1:857" name="User Friendly" x="31" y="6.5" width="75.89653015136719" height="18" />
+                      <rounded-rectangle id="1:858" name="Gradient" x="115.33000183105469" y="0" width="30" height="31" />
+                    </frame>
+                    <frame id="1:859" name="VerticalBorder" x="180.3300018310547" y="0" width="146.33999633789062" height="31">
+                      <text id="1:860" name="John Harwood" x="8" y="6.5" width="83.55848693847656" height="18" />
+                      <rounded-rectangle id="1:861" name="Gradient" x="115.33999633789062" y="0" width="30" height="31" />
+                    </frame>
+                  </frame>
+                  <frame id="1:862" name="HorizontalBorder" x="1" y="129" width="472" height="32">
+                    <frame id="1:863" name="VerticalBorder" x="0" y="-0.5" width="34" height="32">
+                      <text id="1:864" name="4" x="12.609999656677246" y="8" width="8.139249801635742" height="15" />
+                    </frame>
+                    <frame id="1:865" name="VerticalBorder" x="34" y="0" width="146.3300018310547" height="31">
+                      <frame id="1:866" name="SVG" x="8" y="8.5" width="13" height="14">
+                        <vector id="1:867" name="Vector" x="1.5" y="1" width="10.5" height="12" />
+                        <vector id="1:868" name="Vector" x="1.125" y="0.625" width="11.25" height="12.75" />
+                      </frame>
+                      <text id="1:869" name="Broad Band" x="31" y="6.5" width="66.28153228759766" height="18" />
+                      <rounded-rectangle id="1:870" name="Gradient" x="115.33000183105469" y="0" width="30" height="31" />
+                    </frame>
+                    <frame id="1:871" name="VerticalBorder" x="180.3300018310547" y="0" width="146.33999633789062" height="31">
+                      <text id="1:872" name="Claire L. Evans" x="8" y="6.5" width="84.01920318603516" height="18" />
+                      <rounded-rectangle id="1:873" name="Gradient" x="115.33999633789062" y="0" width="30" height="31" />
+                    </frame>
+                  </frame>
+                  <frame id="1:874" name="HorizontalBorder" x="1" y="161" width="472" height="32">
+                    <frame id="1:875" name="VerticalBorder" x="0" y="-0.5" width="34" height="32">
+                      <text id="1:876" name="5" x="12.9399995803833" y="8" width="7.483250141143799" height="15" />
+                    </frame>
+                    <frame id="1:877" name="VerticalBorder" x="34" y="0" width="146.3300018310547" height="31">
+                      <frame id="1:878" name="SVG" x="8" y="8.5" width="13" height="14">
+                        <vector id="1:879" name="Vector" x="1.5" y="1" width="10.5" height="12" />
+                        <vector id="1:880" name="Vector" x="1.125" y="0.625" width="11.25" height="12.75" />
+                      </frame>
+                      <text id="1:881" name="Bringing Design t..." x="31" y="6.5" width="107.95655059814453" height="18" />
+                      <rounded-rectangle id="1:882" name="Gradient" x="115.33000183105469" y="0" width="30" height="31" />
+                    </frame>
+                    <frame id="1:883" name="VerticalBorder" x="180.3300018310547" y="0" width="146.33999633789062" height="31">
+                      <text id="1:884" name="Terry Winograd" x="8" y="6.5" width="88.64642333984375" height="18" />
+                      <rounded-rectangle id="1:885" name="Gradient" x="115.33999633789062" y="0" width="30" height="31" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <text id="1:886" name="Deanna" x="548" y="7540.60986328125" width="68.80999755859375" height="28" />
+        <rounded-rectangle id="1:887" name="Horizontal Divider" x="640.6099853515625" y="7554.10986328125" width="107.38999938964844" height="1" />
+        <frame id="1:888" name="Background+Border+Shadow" x="468" y="7526.60986328125" width="56" height="56">
+          <text id="1:889" name="D" x="23.59000015258789" y="19.59000015258789" width="9.010000228881836" height="16.799999237060547" />
+        </frame>
+        <frame id="1:891" name="Blockquote" x="788" y="7526.60986328125" width="664" height="144">
+          <text id="1:892" name="«" x="-16" y="0" width="14.5" height="48" />
+          <text id="1:893" name="Craft est le seul outil dont vous avez besoin pour tout" x="2.1700000762939453" y="4" width="637.969970703125" height="39" />
+          <text id="1:895" name="— une organisation sans effort, une navigation fluide et un espace de travail qui s&#39;adapte à vos besoins. »" x="0" y="52" width="663.0900268554688" height="87" />
+        </frame>
+        <frame id="1:897" name="Section" x="420" y="7790.60986328125" width="1080" height="640">
+          <frame id="1:898" name="Papers Combined" x="-420" y="-200" width="1920" height="1010" />
+          <text id="1:899" name="Label → Personnalisation" x="453.7699890136719" y="60" width="172.63999938964844" height="24" />
+          <text id="1:900" name="Heading 2 → Rendez-le incontestablement vôtre" x="112.72000122070312" y="100" width="854.75" height="60" />
+          <frame id="1:902" name="Link" x="454.20001220703125" y="192" width="171.5800018310547" height="48">
+            <rounded-rectangle id="1:903" name="Gradient" x="0" y="0" width="171.5800018310547" height="48" />
+            <text id="1:904" name="En savoir plus" x="32" y="12" width="107.77999877929688" height="24" />
+            <frame id="1:905" name="Mask Group" x="0" y="0" width="171.5800018310547" height="48" />
+          </frame>
+          <frame id="1:908" name="Region" x="-420" y="300" width="1920" height="275.3299865722656">
+            <frame id="1:909" name="Group - 1 of 18 → Crimson Coil" x="-119.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:910" name="Group - 2 of 18 → Writer" x="109.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:911" name="Group - 3 of 18 → Shape Shift" x="338.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:912" name="Group - 4 of 18 → Hopefully Sweet" x="567.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:913" name="Group - 5 of 18 → Little World" x="796.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:914" name="Group - 6 of 18 → Blurry Bloom" x="1025.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:915" name="Group - 7 of 18 → Market Walks" x="1254.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:916" name="Group - 8 of 18 → Start Of The Day" x="1483.5" y="0" width="200" height="275.3299865722656" />
+            <frame id="1:917" name="Group - 9 of 18 → Infinity Void" x="1712.5" y="0" width="200" height="275.3299865722656" />
+          </frame>
+        </frame>
+        <text id="1:918" name="Leo" x="1252" y="8564.6103515625" width="33.310001373291016" height="28" />
+        <rounded-rectangle id="1:919" name="Horizontal Divider" x="1309.1099853515625" y="8578.1103515625" width="142.88999938964844" height="1" />
+        <frame id="1:920" name="Overlay+Border+Shadow" x="1172" y="8550.6103515625" width="56" height="56">
+          <frame id="1:921" name="Leo avatar" x="1" y="1" width="54" height="54" />
+        </frame>
+        <frame id="1:922" name="Blockquote" x="468" y="8550.6103515625" width="664" height="144">
+          <text id="1:923" name="«" x="-16" y="0" width="14.5" height="48" />
+          <text id="1:924" name="Craft est bien plus fonctionnel qu&#39;Apple ou Google" x="2.1700000762939453" y="4" width="606" height="39" />
+          <text id="1:926" name="Notes tout en étant bien plus facile à utiliser que Notion. »" x="0" y="52" width="583.1199951171875" height="87" />
+        </frame>
+        <frame id="1:927" name="Section" x="420" y="8814.6103515625" width="1080" height="674.4099731445312">
+          <text id="1:928" name="Heading 2 → Restez dans la boucle" x="281.9200134277344" y="60" width="516.3599853515625" height="60" />
+          <text id="1:930" name="Rejoignez la communauté et découvrez comment d&#39;autres personnes tirent le meilleur parti de Craft." x="229.6300048828125" y="145" width="620.9500122070312" height="47.20000076293945" />
+          <frame id="1:931" name="Cloud" x="600" y="600.1199951171875" width="480" height="246.75" />
+          <frame id="1:932" name="Cloud" x="-64" y="74.41000366210938" width="480" height="246.75" />
+          <frame id="1:933" name="Link" x="-80" y="294.4100036621094" width="280" height="280">
+            <frame id="1:936" name="Image" x="0" y="0" width="280" height="280" />
+            <frame id="1:937" name="Mask Group" x="92" y="24" width="96" height="96" />
+            <frame id="1:941" name="SVG" x="92" y="24" width="96" height="96" />
+            <text id="1:989" name="Heading 4 → r/craftdocs" x="78.05999755859375" y="144" width="124.04000091552734" height="24" />
+            <text id="1:990" name="Discuter, partager et explorer" x="35.08000183105469" y="177" width="210.02999877929688" height="20" />
+          </frame>
+          <frame id="1:992" name="Link" x="240" y="294.4100036621094" width="280" height="280">
+            <frame id="1:995" name="Image" x="0" y="0" width="280" height="280" />
+            <frame id="1:996" name="Background" x="92" y="24" width="96" height="96">
+              <frame id="1:999" name="Mask Group" x="0" y="0" width="96" height="96" />
+              <frame id="1:1002" name="SVG" x="0" y="0" width="96" height="96" />
+            </frame>
+            <text id="1:1016" name="Heading 4 → Slack" x="111.88999938964844" y="144" width="56.41999816894531" height="24" />
+            <text id="1:1017" name="Découvrez les nouvelles fonctionnalités de l&#39;application" x="30.940000534057617" y="177" width="218.32000732421875" height="42.400001525878906" />
+          </frame>
+          <frame id="1:1018" name="Link" x="560" y="294.4100036621094" width="280" height="280">
+            <frame id="1:1019" name="Image" x="0" y="0" width="280" height="280" />
+            <frame id="1:1021" name="Background" x="92" y="24" width="96" height="96">
+              <frame id="1:1024" name="Mask Group" x="0" y="0" width="96" height="96" />
+              <frame id="1:1027" name="SVG" x="0" y="0" width="96" height="96" />
+            </frame>
+            <text id="1:1030" name="Heading 4 → @craftdocsapp" x="63.470001220703125" y="144" width="153.25999450683594" height="24" />
+            <text id="1:1031" name="Restez au courant de nos dernières publications" x="50.27000045776367" y="177" width="179.66000366210938" height="42.400001525878906" />
+          </frame>
+          <frame id="1:1032" name="Link" x="880" y="294.4100036621094" width="280" height="280">
+            <frame id="1:1033" name="Image" x="0" y="0" width="280" height="280" />
+            <frame id="1:1034" name="Background" x="92" y="24" width="96" height="96">
+              <frame id="1:1035" name="SVG" x="0" y="0" width="96" height="96" />
+            </frame>
+            <text id="1:1054" name="Heading 4 → @craftdocs" x="80.44999694824219" y="144" width="119.27999877929688" height="24" />
+            <text id="1:1055" name="Conseils, tutoriels et approfondissement des fonctionnalités" x="55.09000015258789" y="177" width="170.02000427246094" height="64.80999755859375" />
+          </frame>
+        </frame>
+        <frame id="1:1056" name="Section" x="420" y="9609.01953125" width="1080" height="878.8099975585938">
+          <text id="1:1057" name="Label → Tarifs" x="509.9800109863281" y="60" width="60.220001220703125" height="24" />
+          <text id="1:1058" name="Heading 2 → Votre rythme, votre plan" x="237.80999755859375" y="100" width="604.5800170898438" height="60" />
+          <text id="1:1060" name="Utilisez-le ponctuellement, ou intégrez-le à votre routine quotidienne." x="419.2799987792969" y="177" width="241.63999938964844" height="72.4000015258789" />
+          <frame id="1:1061" name="Link" x="329.20001220703125" y="793.6099853515625" width="421.5899963378906" height="25.200000762939453">
+            <text id="1:1062" name="En savoir plus sur les réductions pour les groupes" x="0" y="0" width="395.7900085449219" height="25.200000762939453" />
+            <frame id="1:1064" name="SVG" x="405.6000061035156" y="4.590000152587891" width="16" height="16" />
+          </frame>
+          <frame id="1:1068" name="Background+Border+Shadow" x="80" y="311.6099853515625" width="440" height="422">
+            <rounded-rectangle id="1:1069" name="Background" x="1" y="1" width="438" height="420" />
+            <frame id="1:1070" name="Container" x="1" y="1" width="438" height="420">
+              <frame id="1:1071" name="Paper texture" x="0" y="0" width="438" height="420" />
+            </frame>
+            <text id="1:1072" name="Heading 3 → Gratuit" x="33" y="33" width="145.80999755859375" height="61" />
+            <text id="1:1074" name="Heading 3 → Accès complet, idéal si vous
+l&#39;utilisez occasionnellement
+chaque semaine." x="33" y="106" width="327.95001220703125" height="97" />
+            <text id="1:1077" name="$0" x="33" y="250" width="76.4800033569336" height="74" />
+            <text id="1:1079" name="/mois" x="109.27999877929688" y="285" width="59.279998779296875" height="30" />
+            <frame id="1:1082" name="Link" x="33" y="341" width="158.91000366210938" height="48">
+              <rounded-rectangle id="1:1083" name="Link:shadow" x="0" y="0" width="158.91000366210938" height="48" />
+              <text id="1:1084" name="Commencer" x="32" y="12" width="95.11000061035156" height="24" />
+            </frame>
+          </frame>
+          <frame id="1:1085" name="Background+Border+Shadow" x="560" y="311.6099853515625" width="440" height="422">
+            <rounded-rectangle id="1:1086" name="Background" x="1" y="1" width="438" height="420" />
+            <frame id="1:1087" name="Container" x="1" y="1" width="438" height="420">
+              <frame id="1:1088" name="Paper texture" x="0" y="0" width="438" height="420" />
+            </frame>
+            <frame id="1:1089" name="SVG" x="33" y="37" width="166.86000061035156" height="40.000240325927734" />
+            <frame id="1:1095" name="Background" x="215.86000061035156" y="41" width="75.13999938964844" height="32">
+              <text id="1:1096" name="Plus" x="16" y="6" width="43.34000015258789" height="20" />
+            </frame>
+            <text id="1:1098" name="Heading 3 → Conçu pour s’intégrer
+facilement à votre quotidien." x="33" y="93" width="340.5299987792969" height="67" />
+            <text id="1:1099" name="$8.0" x="33" y="250" width="119.33000183105469" height="74" />
+            <text id="1:1101" name="/mois" x="152.1300048828125" y="285" width="59.27000045776367" height="30" />
+            <frame id="1:1102" name="Link" x="33" y="341" width="188" height="48">
+              <text id="1:1103" name="Passer à Plus" x="42.72999954223633" y="14" width="102.72000122070312" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1104" name="Background+Border+Shadow" x="420" y="10607.830078125" width="1080" height="263.5899963378906">
+          <frame id="1:1105" name="paper-texture.e3705234.png" x="1" y="1" width="1078" height="261.5899963378906" />
+          <frame id="1:1106" name="download-card-vector.png" x="1" y="1" width="1078" height="261.5899963378906" />
+          <text id="1:1108" name="Heading 2 → Commençons" x="49" y="45" width="292.55999755859375" height="69" />
+          <text id="1:1112" name="Commencez gratuitement. Aucune carte de crédit n&#39;est nécessaire." x="49" y="132.58999633789062" width="607.3400268554688" height="84" />
+          <frame id="1:1116" name="Link" x="711" y="158.58999633789062" width="320" height="56">
+            <rounded-rectangle id="1:1117" name="Link:shadow" x="0" y="0" width="320" height="56" />
+            <text id="1:1118" name="Télécharger sur l&#39;" x="35.970001220703125" y="16" width="134.5399932861328" height="24" />
+            <frame id="1:1119" name="SVG" x="178.30999755859375" y="18" width="20" height="20" />
+            <text id="1:1121" name="App Store" x="206.30999755859375" y="16" width="77.91999816894531" height="24" />
+          </frame>
+          <frame id="1:1122" name="Link" x="808.5800170898438" y="82.58999633789062" width="222.4199981689453" height="56">
+            <rounded-rectangle id="1:1125" name="Gradient" x="0" y="0" width="222.4199981689453" height="56" />
+            <text id="1:1126" name="Continuer sur le web" x="32" y="16" width="158.6199951171875" height="24" />
+            <frame id="1:1127" name="Mask Group" x="0" y="0" width="222.4199981689453" height="56" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:1130" name="Footer" x="16" y="10987.419921875" width="1888" height="754.5">
+        <frame id="1:1131" name="Container" x="0" y="0" width="1888" height="754.5">
+          <frame id="1:1132" name="Image" x="0" y="0" width="1888" height="754.5" />
+        </frame>
+        <text id="1:1133" name="Heading 4 → Produit" x="244" y="124" width="66.61000061035156" height="21" />
+        <rounded-rectangle id="1:1136" name="Horizontal Divider" x="244" y="157" width="200" height="0.5" />
+        <rounded-rectangle id="1:1137" name="Rectangle" x="244" y="169.5" width="200" height="1" />
+        <frame id="1:1138" name="List" x="244" y="174.5" width="200" height="268.5">
+          <text id="1:1139" name="Item → Link → Nouveautés produit → Nouveautés produit" x="0" y="2" width="129.5800018310547" height="21" />
+          <text id="1:1141" name="Item → Fonctionnalités" x="0" y="30" width="101.22000122070312" height="21" />
+          <frame id="1:1143" name="List" x="0" y="56" width="200" height="108">
+            <text id="1:1144" name="Item → Link → Écrire → Écrire" x="16" y="2" width="38.810001373291016" height="21" />
+            <text id="1:1145" name="Item → Link → Plan → Plan" x="16" y="30" width="29.059999465942383" height="21" />
+            <text id="1:1146" name="Item → Link → Organiser → Organiser" x="16" y="58" width="64.77999877929688" height="21" />
+            <text id="1:1147" name="Item → Link → Personnaliser → Personnaliser" x="16" y="86" width="89.72000122070312" height="21" />
+          </frame>
+          <text id="1:1148" name="Item → Link → Imaginez avec Craft → Imaginez avec Craft" x="0" y="170" width="128.80999755859375" height="21" />
+          <rounded-rectangle id="1:1149" name="Horizontal Divider" x="0" y="204" width="200" height="0.5" />
+          <text id="1:1150" name="Item → Link → Tarifs → Tarifs" x="0" y="218.5" width="36.970001220703125" height="21" />
+          <text id="1:1151" name="List → Item → Link → Offre Éducation → Offre Éducation" x="16" y="246.5" width="102.11000061035156" height="21" />
+        </frame>
+        <text id="1:1152" name="Heading 4 → Communauté" x="484" y="124" width="109.38999938964844" height="21" />
+        <rounded-rectangle id="1:1153" name="Horizontal Divider" x="484" y="157" width="200" height="0.5" />
+        <rounded-rectangle id="1:1154" name="Rectangle" x="484" y="169.5" width="200" height="1" />
+        <frame id="1:1155" name="List" x="484" y="174.5" width="200" height="212.5">
+          <text id="1:1156" name="Item → Link → Slack → Slack" x="0" y="2" width="36.13999938964844" height="21" />
+          <text id="1:1157" name="Item → Link → Communauté Reddit → Communauté Reddit" x="0" y="30" width="135.39999389648438" height="21" />
+          <text id="1:1158" name="Item → Link → X / Twitter → X / Twitter" x="0" y="58" width="69.58000183105469" height="21" />
+          <rounded-rectangle id="1:1159" name="Horizontal Divider" x="0" y="92" width="200" height="0.5" />
+          <text id="1:1160" name="Item → Link → Apprendre → Apprendre" x="0" y="106.5" width="70.43000030517578" height="21" />
+          <text id="1:1161" name="Item → Link → Comparer Craft → Comparer Craft" x="0" y="134.5" width="100.86000061035156" height="21" />
+          <text id="1:1162" name="Item → Link → Guide de démarrage → Guide de démarrage" x="0" y="162.5" width="133.1999969482422" height="21" />
+          <text id="1:1163" name="Item → Link → Galerie de modèles → Galerie de modèles" x="0" y="190.5" width="125.30999755859375" height="21" />
+        </frame>
+        <text id="1:1164" name="Heading 4 → Support" x="724" y="124" width="70.62000274658203" height="21" />
+        <rounded-rectangle id="1:1165" name="Horizontal Divider" x="724" y="157" width="200" height="0.5" />
+        <rounded-rectangle id="1:1166" name="Rectangle" x="724" y="169.5" width="200" height="1" />
+        <frame id="1:1167" name="List" x="724" y="174.5" width="200" height="52">
+          <text id="1:1168" name="Item → Link → Centre d&#39;aide → Centre d&#39;aide" x="0" y="2" width="87.11000061035156" height="21" />
+          <text id="1:1169" name="Item → Link → Contacter le support → Contacter le support" x="0" y="30" width="134.30999755859375" height="21" />
+        </frame>
+        <text id="1:1170" name="Heading 4 → Entreprise" x="964" y="124" width="93" height="21" />
+        <rounded-rectangle id="1:1171" name="Horizontal Divider" x="964" y="157" width="200" height="0.5" />
+        <rounded-rectangle id="1:1172" name="Rectangle" x="964" y="169.5" width="200" height="1" />
+        <frame id="1:1173" name="List" x="964" y="174.5" width="200" height="343.5">
+          <text id="1:1174" name="Item → Link → À propos de nous → À propos de nous" x="0" y="2" width="113.68000030517578" height="21" />
+          <text id="1:1175" name="Item → Link → Blog → Blog" x="0" y="30" width="30.059999465942383" height="21" />
+          <text id="1:1176" name="Item → Link → Carrières → Carrières" x="0" y="58" width="60.11000061035156" height="21" />
+          <text id="1:1177" name="Item → Link → Programme d&#39;affiliation → Programme d&#39;affiliation" x="0" y="86" width="153.22999572753906" height="21" />
+          <text id="1:1178" name="Item → Link → Médias → Médias" x="0" y="114" width="47.68000030517578" height="21" />
+          <rounded-rectangle id="1:1179" name="Horizontal Divider" x="0" y="148" width="200" height="0.5" />
+          <text id="1:1180" name="Item → Juridique" x="0" y="162.5" width="62.470001220703125" height="21" />
+          <frame id="1:1181" name="List" x="0" y="188.5" width="200" height="155">
+            <text id="1:1182" name="Item → Link → Conditions d’utilisation → Conditions d’utilisation" x="16" y="2" width="151.1699981689453" height="21" />
+            <text id="1:1183" name="Item → Link → Politique de
+confidentialité" x="16" y="30" width="93.76000213623047" height="38" />
+            <text id="1:1184" name="Item → Link → Sécurité → Sécurité" x="16" y="77" width="55" height="21" />
+            <text id="1:1185" name="Item → Link → ESG → ESG" x="16" y="105" width="28.829999923706055" height="21" />
+            <text id="1:1186" name="Item → Link → Divulgation responsable → Divulgation responsable" x="16" y="133" width="159.00999450683594" height="21" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:1187" name="Rectangle" x="1204" y="124" width="200" height="1" />
+        <text id="1:1188" name="Heading 4 → Télécharger" x="1444" y="124" width="110.26000213623047" height="21" />
+        <rounded-rectangle id="1:1189" name="Horizontal Divider" x="1444" y="157" width="200" height="0.5" />
+        <rounded-rectangle id="1:1190" name="Rectangle" x="1444" y="169.5" width="200" height="1" />
+        <frame id="1:1191" name="List" x="1444" y="174.5" width="200" height="224">
+          <text id="1:1192" name="Item → Link → Craft pour iPhone → Craft pour iPhone" x="0" y="2" width="114.55999755859375" height="21" />
+          <text id="1:1193" name="Item → Link → Craft pour iPad → Craft pour iPad" x="0" y="30" width="98.08999633789062" height="21" />
+          <text id="1:1194" name="Item → Link → Craft pour Mac → Craft pour Mac" x="0" y="58" width="96.86000061035156" height="21" />
+          <text id="1:1195" name="Item → Craft pour Windows" x="0" y="86" width="129.27999877929688" height="21" />
+          <frame id="1:1196" name="List" x="0" y="112" width="200" height="56">
+            <text id="1:1197" name="Item → Link → Windows x64 → Windows x64" x="16" y="2" width="89.18000030517578" height="21" />
+            <text id="1:1198" name="Item → Link → Windows ARM64 → Windows ARM64" x="16" y="34" width="113.41999816894531" height="21" />
+          </frame>
+          <text id="1:1199" name="Item → Link → Craft pour Vision Pro → Craft pour Vision Pro" x="0" y="174" width="135.64999389648438" height="21" />
+          <text id="1:1200" name="Item → Link → Craft pour Android → Craft pour Android" x="0" y="202" width="121.69999694824219" height="21" />
+        </frame>
+        <rounded-rectangle id="1:1201" name="Horizontal Divider" x="244" y="578" width="1400" height="0.5" />
+        <text id="1:1202" name="© 2026 Craft Docs Limited, Inc. Tous droits réservés." x="244" y="608.2999877929688" width="378.30999755859375" height="20" />
+        <text id="1:1203" name="Button dialog → Français" x="1394.8299560546875" y="608.2999877929688" width="61.369998931884766" height="20" />
+        <frame id="1:1205" name="Link" x="1492" y="602.5" width="32" height="32">
+          <frame id="1:1208" name="SVG" x="4" y="4" width="24" height="24" />
+        </frame>
+        <frame id="1:1211" name="Link" x="1532" y="602.5" width="32" height="32">
+          <frame id="1:1212" name="SVG" x="4" y="4" width="24" height="24" />
+        </frame>
+        <frame id="1:1214" name="Link" x="1572" y="602.5" width="32" height="32">
+          <frame id="1:1215" name="SVG" x="4" y="4" width="24" height="24" />
+        </frame>
+        <frame id="1:1217" name="Link" x="1612" y="602.5" width="32" height="32">
+          <frame id="1:1218" name="SVG" x="4" y="4" width="24" height="24" />
+        </frame>
+      </frame>
+      <frame id="1:1220" name="Header" x="500" y="32" width="920" height="52">
+        <rounded-rectangle id="1:1223" name="Header:shadow" x="0" y="0" width="920" height="52" />
+        <frame id="1:1224" name="Mask Group" x="0" y="0" width="920" height="52">
+          <rounded-rectangle id="1:1225" name="Mask" x="0" y="0" width="920" height="52" />
+          <rounded-rectangle id="1:1226" name="Gradient" x="0" y="0" width="920" height="52" />
+        </frame>
+        <frame id="1:1227" name="Link - Craft Logo → SVG" x="20" y="16" width="100" height="20" />
+        <frame id="1:1234" name="Nav - Main navigation → List" x="156.4199981689453" y="14" width="500.5299987792969" height="24">
+          <text id="1:1235" name="Item → Button → Produit" x="0" y="2" width="53.11000061035156" height="20" />
+          <text id="1:1236" name="Item → Link → Imaginez" x="68.91000366210938" y="2" width="66.02999877929688" height="20" />
+          <text id="1:1237" name="Item → Button → Communauté" x="150.74000549316406" y="2" width="98.33999633789062" height="20" />
+          <text id="1:1238" name="Item → Link → Tarifs" x="264.8800048828125" y="2" width="40.310001373291016" height="20" />
+          <text id="1:1239" name="Item → Link → Apprendre" x="320.989990234375" y="2" width="77.58999633789062" height="20" />
+          <text id="1:1240" name="Item → Link → Télécharger" x="414.3800048828125" y="2" width="86.36000061035156" height="20" />
+        </frame>
+        <frame id="1:1241" name="Nav - Main navigation → List" x="689.3599853515625" y="8" width="222.63999938964844" height="36">
+          <text id="1:1242" name="Item → Link → Connexion" x="0" y="7.800000190734863" width="77.22000122070312" height="20" />
+          <frame id="1:1243" name="Item → Link" x="89.0199966430664" y="0" width="133.6300048828125" height="36">
+            <rounded-rectangle id="1:1244" name="Link:shadow" x="0" y="0" width="133.6300048828125" height="36" />
+            <text id="1:1245" name="Essayez Craft" x="14" y="6" width="105.83000183105469" height="24" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </section>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

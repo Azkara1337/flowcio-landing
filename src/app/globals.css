@@ -1,26 +1,141 @@
 @import "tailwindcss";
 
+/* ---------------------------------------------------------------------------
+   Tokens extraits de la maquette Figma (get_variable_defs sur le frame 1:17).
+   Le fichier Figma contient ~300 variables auto-générées par un import web ;
+   elles sont distillées ici en un jeu minimal et sémantiquement correct.
+   Les alias cassés côté Figma (line-height pointant sur `opacity/30` ou
+   `corner radius/24`) ont été remplacés par les valeurs réelles mesurées.
+--------------------------------------------------------------------------- */
+
+@theme {
+  /* --- Typographies ------------------------------------------------------ */
+  --font-serif: Georgia, "Times New Roman", serif;
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-ui: Inter, "Helvetica Neue", Arial, sans-serif;
+
+  /* --- Neutres ----------------------------------------------------------- */
+  --color-ink: #030302; /* Rangoon Green — texte principal */
+  --color-shark: #1f2225;
+  --color-cod: #1a1a1a;
+  --color-silver: #b1b1b1;
+  --color-alto: #d9d9d9;
+  --color-mercury: #e1e1e1;
+  --color-iron: #e4e4e7;
+  --color-gallery: #efefef;
+  --color-concrete: #f2f2f2;
+  --color-athens: #f4f4f5;
+  --color-sand: #f7f7f7;
+
+  /* --- Accents ----------------------------------------------------------- */
+  --color-azure: #0087ff; /* Azure Radiance — accent principal */
+  --color-dodger: #54a3ff;
+  --color-cornflower: #9ed4ef;
+  --color-perano: #b8caf5;
+  --color-pattens: #dbedfe;
+  --color-jungle-mist: #bbcfda;
+
+  /* --- Chaleurs (sections illustrées) ------------------------------------ */
+  --color-serenade: #fff3e7;
+  --color-papaya: #ffedd4;
+  --color-negroni: #ffdbc5;
+  --color-banana: #fcdfbd;
+  --color-peach: #ffc49c;
+  --color-golden-glow: #fde99b;
+  --color-golden-grass: #dfb720;
+  --color-pizazz: #ff8904;
+  --color-blaze: #ff6101;
+  --color-vermilion: #ff4500;
+  --color-thorns: #842123;
+
+  /* --- Verts ------------------------------------------------------------- */
+  --color-vista: #9bd8a9;
+  --color-tea: #c1eead;
+
+  /* --- Marques tierces (section « Restez dans la boucle ») ---------------- */
+  --color-slack-rose: #e01e5a;
+  --color-slack-blue: #36c5f0;
+  --color-slack-green: #2eb67d;
+  --color-slack-yellow: #ecb22e;
+
+  /* --- Échelle typographique --------------------------------------------- */
+  /* Valeurs desktop natives (frame 1920w). Le fluide est géré par clamp() */
+  --text-h1: 4.469rem; /* 71.5px */
+  --text-h1--line-height: 1.035;
+  --text-h1--letter-spacing: -0.031em;
+
+  --text-h2: 3.194rem; /* 51.1px — Georgia Italic */
+  --text-h2--line-height: 1.205;
+  --text-h2--letter-spacing: -0.033em;
+
+  --text-h3: 2.169rem; /* 34.7px */
+  --text-h3--line-height: 1.153;
+  --text-h3--letter-spacing: -0.041em;
+
+  --text-h4: 0.875rem; /* 14px — Helvetica Neue Medium, uppercase */
+  --text-h4--line-height: 1.5;
+  --text-h4--letter-spacing: 0.01em;
+
+  --text-h5: 2.031rem; /* 32.5px */
+  --text-h5--line-height: 1.255;
+  --text-h5--letter-spacing: -0.021em;
+
+  --text-quote: 1.881rem; /* 30.1px — Georgia Italic */
+  --text-quote--line-height: 1.595;
+  --text-quote--letter-spacing: -0.043em;
+
+  --text-lead: 1.381rem; /* 22.1px — Georgia Italic */
+  --text-lead--line-height: 1.303;
+  --text-lead--letter-spacing: -0.033em;
+
+  --text-body: 1rem; /* 16px */
+  --text-body--line-height: 1.4;
+  --text-body--letter-spacing: -0.02em;
+
+  --text-small: 0.8125rem; /* 13px */
+  --text-small--line-height: 1.5;
+
+  --text-tiny: 0.75rem; /* 12px */
+  --text-tiny--line-height: 1.4;
+
+  /* --- Rayons ------------------------------------------------------------ */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 24px;
+  --radius-2xl: 26px;
+  --radius-3xl: 32px;
+
+  /* --- Gabarit ----------------------------------------------------------- */
+  /* Le contenu de la maquette est cadré à 1080px dans un canvas de 1920 */
+  --container-content: 1080px;
+  --container-wide: 1400px;
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+--------------------------------------------------------------------------- */
+
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --foreground: var(--color-ink);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Les titres de la maquette sont en Georgia, plusieurs en italique. */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--font-serif);
+  font-weight: 400;
 }
